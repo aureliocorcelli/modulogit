@@ -1,5 +1,6 @@
 Funçoes CMD GITHUB:
 
+- git init -> comando que inicializa e cria o repositorio é o primeiro comando a ser dado
 - git help ->
 - git status -> Show the working tree status
 - git add -A -> Add file contents to the index
