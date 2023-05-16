@@ -13,5 +13,5 @@ Funçoes CMD GITHUB:
     * gif diff --name only -> irá trazer somente o nome dos arquivos alterados
 - git push -> Para enviar na nuvem
     * git push origin nome do branch - origin e o local que determinamos e nome de qual branch iremos enviar
-
+complicado esse trem
  
