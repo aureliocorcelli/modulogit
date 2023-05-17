@@ -14,6 +14,8 @@ Funçoes CMD GITHUB:
     * gif diff --name only -> irá trazer somente o nome dos arquivos alterados
 - git push -> Para enviar na nuvem
     * git push origin nome do branch - origin e o local que determinamos e nome de qual branch iremos enviar
+    * git push origin :(nome do branch) -> exclui o branch escolhido do remoto
+    * git branch -D (nome do branch) -> exclui o branch escolhido do local - tem que sair do branch na raiz do cmd para que esta operação funcione.
 - git revert - recupera as alterações efetuadas
     * git revert --no-edit (+o codigo do comite que quer se reverter) neste comando vc reverte exatamente o commit que quis reverter.
  
