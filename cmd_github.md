@@ -18,4 +18,5 @@ Funçoes CMD GITHUB:
     * git branch -D (nome do branch) -> exclui o branch escolhido do local - tem que sair do branch na raiz do cmd para que esta operação funcione.
 - git revert - recupera as alterações efetuadas
     * git revert --no-edit (+o codigo do comite que quer se reverter) neste comando vc reverte exatamente o commit que quis reverter.
+- git pull - caminho inverso do push, atualiza do remoto para o local -> git pull origin mastergit 
  
